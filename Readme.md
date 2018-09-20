@@ -1,3 +1,3 @@
-OOP laboratories
+# OOP laboratories
 
-Alina Gomeniuc
+**Alina Gomeniuc**
