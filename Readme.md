@@ -1,0 +1,3 @@
+OOP laboratories
+
+Alina Gomeniuc
