@@ -17,7 +17,7 @@
 14. [Munteanu Maria](https://github.com/MaryMN/oop)
 15. Railean Nichita
 16. [Sarmaniuc Marius](https://github.com/mariussarmaniuc/POO)  
-17. [Speianu Dana]
+17. [Speianu Dana](https://github.com/speianudana/OOP)
 18. [Scebec Mihai]
 19. [Svet Vera](https://github.com/verasv81/oop-labaratories)
 20. [Turcan Gheorghe]
