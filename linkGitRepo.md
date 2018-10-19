@@ -11,7 +11,7 @@
 8. Ejova Ecaterina
 9. [Galaju Elizabeth](https://github.com/ElizabetG/OOP)
 10. [EU](https://github.com/AlinaGomeniuc/oop)
-11. Ivanova Anastasia
+11. [Ivanova Anastasia](https://github.com/AshleyBlair/OOP)
 12. Laptedulce Nicu
 13. Medinschii Eduard
 14. [Munteanu Maria](https://github.com/MaryMN/oop)
