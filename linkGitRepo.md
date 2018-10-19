@@ -5,7 +5,7 @@
 2. Botnaru Ina
 3. Chirica Maria-Mirabela
 4. Chiseliov Eugen-Catalin
-5. Cirnat Nadejda
+5. [Cirnat Nadejda](https://github.com/nadiusa/OOP)
 6. Cretu Dumitru
 7. [Dodon Ion](https://github.com/iondodon1998/UTM_OOP.git)
 8. Ejova Ecaterina
