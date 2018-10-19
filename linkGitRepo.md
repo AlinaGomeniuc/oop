@@ -10,7 +10,7 @@
 7. [Dodon Ion](https://github.com/iondodon1998/UTM_OOP.git)
 8. Ejova Ecaterina
 9. Galaju Elizabeth
-10. EU
+10. [EU](https://github.com/AlinaGomeniuc/oop)
 11. Ivanova Anastasia
 12. Laptedulce Nicu
 13. Medinschii Eduard
