@@ -9,7 +9,7 @@
 6. Cretu Dumitru
 7. [Dodon Ion](https://github.com/iondodon1998/UTM_OOP.git)
 8. Ejova Ecaterina
-9. Galaju Elizabeth
+9. [Galaju Elizabeth](https://github.com/ElizabetG/OOP)
 10. [EU](https://github.com/AlinaGomeniuc/oop)
 11. Ivanova Anastasia
 12. Laptedulce Nicu
