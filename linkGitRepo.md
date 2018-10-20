@@ -13,7 +13,7 @@
 10. [EU](https://github.com/AlinaGomeniuc/oop)
 11. [Ivanova Anastasia](https://github.com/AshleyBlair/OOP)
 12. [Laptedulce Nicu](https://github.com/Laptedulcenicu/OOP)
-13. Medinschii Eduard
+13. [Medinschii Eduard](https://github.com/FreakishNature/OOP)
 14. [Munteanu Maria](https://github.com/MaryMN/oop)
 15. Railean Nichita
 16. [Sarmaniuc Marius](https://github.com/mariussarmaniuc/POO)  
