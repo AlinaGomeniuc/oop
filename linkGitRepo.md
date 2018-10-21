@@ -15,11 +15,11 @@
 12. [Laptedulce Nicu](https://github.com/Laptedulcenicu/OOP)
 13. [Medinschii Eduard](https://github.com/FreakishNature/OOP)
 14. [Munteanu Maria](https://github.com/MaryMN/oop)
-15. Railean Nichita
+15. [Railean Nichita](https://github.com/Nichitos/LaboratoareOOP)
 16. [Sarmaniuc Marius](https://github.com/mariussarmaniuc/POO)  
 17. [Speianu Dana](https://github.com/speianudana/OOP)
 18. [Scebec Mihai](https://github.com/JingoBongo?tab=repositories)
 19. [Svet Vera](https://github.com/verasv81/oop-labaratories)
-20. Turcan Gheorghe
+20. [Turcan Gheorghe](https://github.com/slycrypt/OOP_Labs)
 21. Vasilita Ion
 22. [Verebceanu Mirela](https://github.com/mirelaverebceanu/OOP)
