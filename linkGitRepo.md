@@ -6,7 +6,7 @@
 3. [Chirica Maria-Mirabela](https://github.com/ChiricaMirabela/oop_lab)
 4. [Chiseliov Eugen-Catalin](https://github.com/chiselioveugen/OOP-work)
 5. [Cirnat Nadejda](https://github.com/nadiusa/OOP)
-6. Cretu Dumitru
+6. [Cretu Dumitru](https://github.com/filpatterson/Laboratory-works-for-OOP)
 7. [Dodon Ion](https://github.com/iondodon1998/UTM_OOP.git)
 8. [Ejova Ecaterina](https://github.com/KatyaFAF172/POO)
 9. [Galaju Elizabeth](https://github.com/ElizabetG/OOP)
